@@ -1,0 +1,4 @@
+{"module": "image_analysis", "timestamp": "2026-05-07T06:16:10.432751Z", "emergency_type": "fire", "confidence": 0.9999, "status": "emergency", "flagged": false, "image_path": "dataset\\fire\\fire_detected_var10_img1.png", "services": ["fire_department", "ambulance"]}
+{"module": "image_analysis", "timestamp": "2026-05-07T06:17:43.027496Z", "emergency_type": "medical", "confidence": 0.8097, "status": "emergency", "flagged": false, "image_path": "uploads/cd01ee85322f.jpg", "services": ["ambulance"]}
+{"module": "image_analysis", "timestamp": "2026-05-07T06:18:51.691579Z", "emergency_type": "medical", "confidence": 1.0, "status": "emergency", "flagged": false, "image_path": "uploads/92f47341d7b6.jpeg", "services": ["ambulance"]}
+{"module": "image_analysis", "timestamp": "2026-05-07T06:19:51.958323Z", "emergency_type": "medical", "confidence": 1.0, "status": "emergency", "flagged": false, "image_path": "uploads/258816294590.jpeg", "services": ["ambulance"]}

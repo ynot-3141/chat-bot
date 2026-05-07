@@ -1,0 +1,6 @@
+{
+  "fire": 0,
+  "medical": 1,
+  "crime": 2,
+  "normal": 3
+}
