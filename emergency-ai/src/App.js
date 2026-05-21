@@ -261,7 +261,7 @@ function LogRow({ entry, idx }) {
     <div style={{
       display: "grid", gridTemplateColumns: "80px 1fr 70px 70px",
       gap: 8, padding: "6px 10px", borderRadius: 4,
-      background: idx % 2 === 0 ? "rgba(255,255,255,0.02)" : "transparent",
+      background: idx % 2 === 0 ? "rgba(255, 255, 255, 0.02)" : "transparent",
       fontSize: 11, alignItems: "center",
       animation: idx === 0 ? "slide-in 0.3s ease" : "none",
     }}>
